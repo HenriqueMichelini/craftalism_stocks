@@ -1,0 +1,4 @@
+name: craftalism_stocks
+version: '1.0-SNAPSHOT'
+main: io.github.HenriqueMichelini.craftalism_stocks.CraftalismStocks
+api-version: '1.21'
